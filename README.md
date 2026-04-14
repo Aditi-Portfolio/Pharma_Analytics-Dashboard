@@ -3,7 +3,9 @@
 ## 📘 Project Overview
 This repository contains the **Pharma Analytics Dashboard**, developed in Power BI.  
 The dashboard provides a comprehensive view of **hospital performance and pharmaceutical sales**, combining clinical, operational, and financial insights.  
-It is designed to support healthcare leaders and pharma executives in making data-driven decisions.
+It is designed to support healthcare leaders and pharma executives in making data-driven decisions.  
+*Note: This project uses synthetic datasets sourced from open repositories for demonstration and learning purposes.*
+
 
 ---
 
