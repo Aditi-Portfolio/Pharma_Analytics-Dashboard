@@ -57,3 +57,9 @@ It highlights cost drivers, top-performing products, and patient flow patterns, 
 - Strengthened ability to balance **clinical, operational, and financial perspectives** in a single-page dashboard.  
 - Improved skills in **storytelling with data**, ensuring dashboards are not just visual but also actionable.  
 
+---
+
+## 👩‍💻 Author
+ Created by **Aditi**
+ - [LinkedIn] (https://www.linkedin.com/in/aditi-ghosh-641817253/)
+
